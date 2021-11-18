@@ -49,7 +49,16 @@ _Below is an example of how you can instruct your audience on installing and set
    npm install
    ```
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+## Running the Program
+To run this program, use the node command as follows:
+ ```sh
+   $ node hello.js
+   ```
+The Node.js interpreter read the file and executed console.log("Hello World"); by calling the log method of the global console object. The string "Hello World" was passed as an argument to the log function.
+
+Although quotation marks are necessary in the code to indicate that the text is a string, they are not printed to the screen.
+
+Having confirmed that the program works, let’s make it more interactive.
 
 
 <!-- LICENSE -->
@@ -65,8 +74,23 @@ Juantxo Cruz - [@juantocruz](https://twitter.com/juantxocruz) - jcruz16@gmail.co
 
 Project Link: [https://github.com/Juantxo/learn-node](https://github.com/Juantxo/learn-node)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+
+* [Choose an Open Source License](https://choosealicense.com)
+* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
+* [Malven's Grid Cheatsheet](https://grid.malven.co/)
+* [Img Shields](https://shields.io)
+* [GitHub Pages](https://pages.github.com)
+* [Font Awesome](https://fontawesome.com)
+* [React Icons](https://react-icons.github.io/react-icons/search)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
