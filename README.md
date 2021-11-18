@@ -29,6 +29,15 @@
   </a>
   </div>
 
+
+## Prerequisites
+To complete this tutorial, you will need:
+
+*  Node.js installed on your development machine. This tutorial uses Node.js version 10.16.0. To install this on macOS or Ubuntu 18.04, follow the steps in How to Install Node.js and Create a Local Development Environment on macOS or the “Installing Using a PPA” section of How To Install Node.js on Ubuntu 18.04.
+*  A basic knowledge of JavaScript, which you can find here: How To Code in JavaScript.
+
+
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
