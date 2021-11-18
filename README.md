@@ -20,7 +20,12 @@
 # learn-node
 Tutorial: How To Code in Node.js
 
-
+<div align="center">
+  <a href="https://github.com/Juantxo/learn-node">
+    <img src="learn-node.png" alt="Logo" width="80" height="80">
+  </a>
+  </div>
+  
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
