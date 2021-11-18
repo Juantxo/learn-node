@@ -19,9 +19,12 @@
 
 # Tutorial: How To Code in Node.js
 David Landup and Marcus Sanatan
+
 DigitalOcean, New York City, New York, USA
+
 2020-12
-<a href="https://www.digitalocean.com/community/tutorial_series/how-to-code-in-node-js"><strong>TUTORIAL SERIES »</strong></a>
+
+<a href="https://www.digitalocean.com/community/tutorial_series/how-to-code-in-node-js" target="_blank><strong>TUTORIAL SERIES »</strong></a>
 
 <div align="left">
   <a href="https://github.com/Juantxo/learn-node">
