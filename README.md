@@ -16,11 +16,6 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-# Tutorial: How To Code in Node.js
-
-<p align="left">David Landup and Marcus Sanatan.</p>
-<p align="left>"DigitalOcean, New York City, New York, USA.</p>
-<p align="left">2020-12</p>
 
 # Tutorial: How To Code in Node.js
 
