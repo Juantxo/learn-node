@@ -26,7 +26,7 @@
 [TUTORIAL SERIES »](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-node-js)
 
 <div align="left">
-  <a href="https://github.com/Juantxo/learn-node">
+  <a href="https://github.com/juantxocruz/learn-node">
     <img src="how-to-code.png" alt="Logo" width="220" height="320">
   </a>
   </div>
@@ -48,7 +48,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Juantxo/learn-node.git
+   git clone https://github.com/juantxocruz/learn-node.git
    ```
 2. Install NPM packages
    ```sh
@@ -81,7 +81,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Juantxo Cruz - [@juantocruz](https://twitter.com/juantxocruz) - jcruz16@gmail.com
 
-Project Link: [https://github.com/Juantxo/learn-node](https://github.com/Juantxo/learn-node)
+Project Link: [https://github.com/Juantxo/learn-node](https://github.com/juantxocruz/learn-node)
 
 <!-- ACKNOWLEDGMENTS -->
 
@@ -103,16 +103,16 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/Juantxo/learn-node.svg?style=for-the-badge
-[contributors-url]: https://github.com/Juantxo/learn-node/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Juantxo/learn-node.svg?style=for-the-badge
-[forks-url]: https://github.com/Juantxo/learn-node/network/members
-[stars-shield]: https://img.shields.io/github/stars/Juantxo/learn-node.svg?style=for-the-badge
-[stars-url]: https://github.com/Juantxo/learn-node/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Juantxo/learn-node.svg?style=for-the-badge
-[issues-url]: https://github.com/Juantxo/learn-node/issues
-[license-shield]: https://img.shields.io/github/license/Juantxo/learn-node.svg?style=for-the-badge
-[license-url]: https://github.com/Juantxo/learn-node/blob/master/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/juantxocruz/learn-node.svg?style=for-the-badge
+[contributors-url]: https://github.com/juantxocruz/learn-node/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/juantxocruz/learn-node.svg?style=for-the-badge
+[forks-url]: https://github.com/juantxocruz/learn-node/network/members
+[stars-shield]: https://img.shields.io/github/stars/juantxocruz/learn-node.svg?style=for-the-badge
+[stars-url]: https://github.com/juantxocruz/learn-node/stargazers
+[issues-shield]: https://img.shields.io/github/issues/juantxocruz/learn-node.svg?style=for-the-badge
+[issues-url]: https://github.com/juantxocruz/learn-node/issues
+[license-shield]: https://img.shields.io/github/license/juantxocruz/learn-node.svg?style=for-the-badge
+[license-url]: https://github.com/juantxocruz/learn-node/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/juantxocruz
 [product-screenshot]: images/screenshot.png
