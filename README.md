@@ -61,7 +61,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@juantocruz](https://twitter.com/juantxocruz) - jcruz16@gmail.com
+Juantxo Cruz - [@juantocruz](https://twitter.com/juantxocruz) - jcruz16@gmail.com
 
 Project Link: [https://github.com/Juantxo/learn-node](https://github.com/Juantxo/learn-node)
 
