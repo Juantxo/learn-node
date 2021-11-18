@@ -20,7 +20,7 @@
 # learn-node
 Tutorial: How To Code in Node.js
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/Juantxo/learn-node">
     <img src="how-to-code.png" alt="Logo" width="220" height="320">
   </a>
