@@ -21,6 +21,7 @@
 <p align="left">David Landup and Marcus Sanatan.</p>
 <p align="left>"DigitalOcean, New York City, New York, USA.</p>
 <p align="left">2020-12</p>
+
 [TUTORIAL SERIES »](https://www.digitalocean.com/community/tutorial_series/how-to-code-in-node-js)
 <div align="left">
   <a href="https://github.com/Juantxo/learn-node">
