@@ -29,6 +29,11 @@
   </a>
   </div>
 
+Node.js is a popular open-source runtime environment that can execute JavaScript outside of the browser. The Node runtime is commonly used for back-end web development, leveraging its asynchronous capabilities to create networking applications and web servers. Node also is a popular choice for building command line tools.
+
+Node.js uses g the V8 JavaScript engine, which is the same engine used to power the Google Chrome web browser's JavaScript execution.
+
+
 
 ## Prerequisites
 To complete this tutorial, you will need:
